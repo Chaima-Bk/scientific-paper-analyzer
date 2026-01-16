@@ -23,14 +23,7 @@ An interactive NLP-based application to analyze scientific papers (PDF).
 pip install -r requirements.txt
 streamlit run app/app.py
 
-## 🎯 Purpose
-This project was built as a hands-on NLP application to explore
-scientific document understanding, text mining, and data-driven analysis.
 
-## 📂 Project Structure
-app/        # Streamlit application
-src/        # NLP and processing modules
-data/       # Sample scientific papers
-outputs/    # Generated JSON reports
+
 
 
