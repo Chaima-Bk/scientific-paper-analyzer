@@ -51,7 +51,10 @@ Keyword extraction and automatic summary of the paper.
 ![NLP insights](assets/nlp_insights_summary_keywords.png)
 
 ---
+## 🌐 Live Demo
+🔗 https://scientific-paper-analyzer-v4rccxmgabcvxfjpdn43hn.streamlit.app/
 
+---
 ## 🛠 Tech Stack
 
 - **Python**
@@ -71,3 +74,4 @@ pip install -r requirements.txt
 
 # Launch the Streamlit app
 streamlit run app/app.py
+
